@@ -1,6 +1,8 @@
 # spk-ahp
 Sistem Pendukung Keputusan Evaluasi Kinerja Karyawan Dengan Algoritma AHP
 
+Kompatibel untuk PHP versi lama (PHP 5.0)
+
 PETUNJUK INSTALASI :
 
 1. Copy folder kinerjakaryawan ke folder ../htdocs/
